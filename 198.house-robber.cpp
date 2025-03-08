@@ -45,14 +45,18 @@ class Solution {
  public:
   int rob(vector<int>& nums) {
     int n = nums.size();
-    vector<int> dp(n + 1, 0);
     if (n == 1) return nums[0];
-    if (n == 2) return max(nums[0], nums[1]);
-    dp[0] = 0;
-    dp[1] = nums[0];
+    int dp_a = 0;
+    int dp_b = nums[0];
     for (int i = 2; i <= n; i++) {
-      dp[i] = max(dp[i - 1], dp[i - 2] + nums[i - 1]);
+      if (i % 2 == 0)
+        dp_a = max(dp_b, dp_a + nums[i - 1]);
+      else
+        dp_b = max(dp_a, dp_b + nums[i - 1]);
     }
-    return dp[n];
+    if (n % 2 == 0)
+      return dp_a;
+    else
+      return dp_b;
   }
 };
