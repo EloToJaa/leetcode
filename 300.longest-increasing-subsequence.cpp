@@ -44,7 +44,7 @@ using namespace std;
 
 class Solution {
  public:
-  int findNewPosition(const vector<int> lis, int num) {
+  int findNewPosition(const vector<int>& lis, int num) {
     int l = 0, r = lis.size() - 1, mid;
 
     while (l < r) {
