@@ -44,8 +44,6 @@
 
 #include <bits/stdc++.h>
 
-#include <bitset>
-
 using namespace std;
 
 class Solution {
