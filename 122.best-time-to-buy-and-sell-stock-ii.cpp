@@ -53,21 +53,10 @@ using namespace std;
 class Solution {
  public:
   int maxProfit(vector<int>& prices) {
-    bool ascending = true;
-    int n = prices.size(), sum = 0, minValue = prices[0];
-    for (int i = 1; i < n; i++) {
-      bool newAscending = prices[i - 1] < prices[i];
-      if (!ascending && newAscending) {
-        minValue = prices[i - 1];
-      } else if (ascending && !newAscending) {
-        sum += max(prices[i - 1] - minValue, 0);
-      }
-
-      ascending = newAscending;
+    long long res = 0;
+    for (int i = 1; i < prices.size(); i++) {
+      res += max(prices[i] - prices[i - 1], 0);
     }
-    if (ascending) {
-      sum += max(prices[n - 1] - minValue, 0);
-    }
-    return sum;
+    return res;
   }
 };

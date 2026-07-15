@@ -59,13 +59,10 @@ using namespace std;
 class Solution {
  public:
   long long maxAlternatingSum(vector<int>& nums) {
-    const int n = nums.size();
-    long long sumEven = 0, sumOdd = 0, tmp;
-    for (int i = n - 1; i >= 0; i--) {
-      tmp = max(sumOdd + nums[i], sumEven);     // even
-      sumOdd = max(sumEven - nums[i], sumOdd);  // odd
-      sumEven = tmp;
+    long long res = nums[0];
+    for (int i = 1; i < nums.size(); i++) {
+      res += max(nums[i] - nums[i - 1], 0);
     }
-    return sumEven;
+    return res;
   }
 };
