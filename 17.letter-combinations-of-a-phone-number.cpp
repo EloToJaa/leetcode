@@ -61,7 +61,10 @@ class Solution {
 
   void dfs(vector<string>& res, string curr, string digits, int n) {
     if (n > digits.size()) return;
-    if (n == digits.size()) res.push_back(curr);
+    if (n == digits.size()) {
+      res.push_back(curr);
+      return;
+    }
     vector<char> chars = getChars(digits[n] - '0');
     for (const char& c : chars) {
       curr.push_back(c);
