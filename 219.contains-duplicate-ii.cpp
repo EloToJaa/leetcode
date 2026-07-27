@@ -42,10 +42,12 @@ class Solution {
  public:
   bool containsNearbyDuplicate(vector<int>& nums, int k) {
     unordered_map<int, int> cnt;
-    for (int i = 0; i < k; i++) {
+    const int n = nums.size();
+    for (int i = 0; i < min(k, n); i++) {
       cnt[nums[i]]++;
+      if (cnt[nums[i]] > 1) return true;
     }
-    for (int i = k; i < nums.size(); i++) {
+    for (int i = k; i < n; i++) {
       if (cnt[nums[i]] > 0) return true;
       cnt[nums[i]]++;
       cnt[nums[i - k]]--;
