@@ -38,14 +38,5 @@ using namespace std;
 
 class Solution {
  public:
-  int addDigits(int num) {
-    if (num < 10) return num;
-    int sum = 0;
-    while (num > 9) {
-      sum += (num % 10);
-      num /= 10;
-    }
-    sum += num;
-    return addDigits(sum);
-  }
+  int addDigits(int num) { return num == 0 ? 0 : 1 + (num - 1) % 9; }
 };
