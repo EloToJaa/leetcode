@@ -40,8 +40,8 @@ Unsolved problems from the [Google 30-day list](https://github.com/snehasishroy/
 
 ## Medium
 
-- [ ] [50. Pow(x, n)](https://leetcode.com/problems/powx-n) — 62.5%
-- [ ] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) — 50.0%
+- [x] [50. Pow(x, n)](https://leetcode.com/problems/powx-n) — 62.5%
+- [x] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) — 50.0%
 - [ ] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) — 50.0%
 - [ ] [912. Sort an Array](https://leetcode.com/problems/sort-an-array) — 50.0%
 - [ ] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) — 37.5%
