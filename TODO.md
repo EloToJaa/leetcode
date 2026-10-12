@@ -47,7 +47,7 @@ Unsolved problems from the [Google 30-day list](https://github.com/snehasishroy/
 - [x] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) — 37.5%
 - [x] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) — 37.5%
 - [x] [31. Next Permutation](https://leetcode.com/problems/next-permutation) — 37.5%
-- [ ] [38. Count and Say](https://leetcode.com/problems/count-and-say) — 37.5%
+- [x] [38. Count and Say](https://leetcode.com/problems/count-and-say) — 37.5%
 - [ ] [39. Combination Sum](https://leetcode.com/problems/combination-sum) — 37.5%
 - [ ] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) — 37.5%
 - [ ] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) — 37.5%
