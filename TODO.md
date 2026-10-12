@@ -45,7 +45,7 @@ Unsolved problems from the [Google 30-day list](https://github.com/snehasishroy/
 - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) — 50.0%
 - [x] [912. Sort an Array](https://leetcode.com/problems/sort-an-array) — 50.0%
 - [x] [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) — 37.5%
-- [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) — 37.5%
+- [x] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) — 37.5%
 - [ ] [31. Next Permutation](https://leetcode.com/problems/next-permutation) — 37.5%
 - [ ] [38. Count and Say](https://leetcode.com/problems/count-and-say) — 37.5%
 - [ ] [39. Combination Sum](https://leetcode.com/problems/combination-sum) — 37.5%
