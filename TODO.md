@@ -50,7 +50,7 @@ Unsolved problems from the [Google 30-day list](https://github.com/snehasishroy/
 - [x] [38. Count and Say](https://leetcode.com/problems/count-and-say) — 37.5%
 - [x] [39. Combination Sum](https://leetcode.com/problems/combination-sum) — 37.5%
 - [x] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) — 37.5%
-- [ ] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) — 37.5%
+- [x] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) — 37.5%
 - [ ] [90. Subsets II](https://leetcode.com/problems/subsets-ii) — 37.5%
 - [ ] [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) — 37.5%
 - [ ] [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) — 37.5%
