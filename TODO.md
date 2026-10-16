@@ -56,7 +56,7 @@ Unsolved problems from the [Google 30-day list](https://github.com/snehasishroy/
 - [x] [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) — 37.5%
 - [x] [137. Single Number II](https://leetcode.com/problems/single-number-ii) — 37.5%
 - [x] [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) — 37.5%
-- [ ] [148. Sort List](https://leetcode.com/problems/sort-list) — 37.5%
+- [x] [148. Sort List](https://leetcode.com/problems/sort-list) — 37.5%
 - [ ] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) — 37.5%
 - [ ] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element) — 37.5%
 - [ ] [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) — 37.5%
