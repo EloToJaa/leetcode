@@ -60,7 +60,7 @@ Unsolved problems from the [Google 30-day list](https://github.com/snehasishroy/
 - [x] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) — 37.5%
 - [x] [162. Find Peak Element](https://leetcode.com/problems/find-peak-element) — 37.5%
 - [x] [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) — 37.5%
-- [ ] [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) — 37.5%
+- [x] [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows) — 37.5%
 - [ ] [343. Integer Break](https://leetcode.com/problems/integer-break) — 37.5%
 - [ ] [368. Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset) — 37.5%
 - [ ] [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) — 37.5%
