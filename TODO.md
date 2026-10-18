@@ -66,7 +66,7 @@ Unsolved problems from the [Google 30-day list](https://github.com/snehasishroy/
 ### Graphs
 
 - [x] [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) — 37.5%
-- [ ] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island) — 37.5%
+- [x] [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island) — 37.5%
 - [ ] [743. Network Delay Time](https://leetcode.com/problems/network-delay-time) — 37.5%
 - [ ] [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) — 37.5%
 - [ ] [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) — 37.5%
@@ -186,7 +186,6 @@ Unsolved problems from the [Google 30-day list](https://github.com/snehasishroy/
 - [ ] [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue) — 50.0%
 
 ## Database / JavaScript
-
 
 - [ ] [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) — Medium, 37.5%
 - [ ] [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers) — Easy, 37.5%
