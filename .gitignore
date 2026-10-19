@@ -1,3 +1,4 @@
 **/*.bin
 **/*.dat
 __pycache__/
+/.direnv/
