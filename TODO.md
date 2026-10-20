@@ -215,7 +215,7 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 - [x] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) — Medium
 - [x] [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray) — Medium
 - [x] [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) — Medium
-- [ ] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) — Medium
+- [x] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) — Medium
 - [x] [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) — Medium
 - [x] [15. 3Sum](https://leetcode.com/problems/3sum) — Medium
 - [x] [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water) — Medium
