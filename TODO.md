@@ -223,8 +223,8 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 ### Binary
 
 - [x] [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) — Medium
-- [ ] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) — Easy
-- [ ] [338. Counting Bits](https://leetcode.com/problems/counting-bits) — Easy
+- [x] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) — Easy
+- [x] [338. Counting Bits](https://leetcode.com/problems/counting-bits) — Easy
 - [ ] [268. Missing Number](https://leetcode.com/problems/missing-number) — Easy
 - [ ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) — Easy
 
@@ -311,4 +311,3 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 
 - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) — Medium
 - [x] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) — Hard
-
