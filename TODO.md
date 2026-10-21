@@ -225,7 +225,7 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 - [x] [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) — Medium
 - [x] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) — Easy
 - [x] [338. Counting Bits](https://leetcode.com/problems/counting-bits) — Easy
-- [ ] [268. Missing Number](https://leetcode.com/problems/missing-number) — Easy
+- [x] [268. Missing Number](https://leetcode.com/problems/missing-number) — Easy
 - [ ] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) — Easy
 
 ### Dynamic Programming
