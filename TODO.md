@@ -244,21 +244,21 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 
 ### Graphs
 
-- [ ] [133. Clone Graph](https://leetcode.com/problems/clone-graph) — Medium
+- [x] [133. Clone Graph](https://leetcode.com/problems/clone-graph) — Medium
 - [x] [207. Course Schedule](https://leetcode.com/problems/course-schedule) — Medium
 - [x] [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) — Medium
 - [x] [200. Number of Islands](https://leetcode.com/problems/number-of-islands) — Medium
 - [x] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) — Medium
-- [ ] [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary) — Hard
-- [ ] [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) — Medium
-- [ ] [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) — Medium
+- [p] [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary) — Hard
+- [p] [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) — Medium
+- [p] [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) — Medium
 
 ### Intervals
 
 - [ ] [57. Insert Interval](https://leetcode.com/problems/insert-interval) — Medium
 - [x] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals) — Medium
 - [ ] [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) — Medium
-- [ ] [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) — Easy
+- [p] [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) — Easy
 - [x] [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) — Medium
 
 ### Linked Lists
@@ -288,7 +288,7 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 - [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) — Easy
 - [ ] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) — Medium
 - [ ] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) — Medium
-- [ ] [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) — Medium
+- [p] [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) — Medium
 
 ### Trees
 
