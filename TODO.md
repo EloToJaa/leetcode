@@ -255,7 +255,7 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 
 ### Intervals
 
-- [ ] [57. Insert Interval](https://leetcode.com/problems/insert-interval) — Medium
+- [x] [57. Insert Interval](https://leetcode.com/problems/insert-interval) — Medium
 - [x] [56. Merge Intervals](https://leetcode.com/problems/merge-intervals) — Medium
 - [ ] [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) — Medium
 - [p] [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) — Easy
