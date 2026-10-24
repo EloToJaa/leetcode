@@ -284,7 +284,7 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 - [x] [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) — Hard
 - [ ] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) — Easy
 - [x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) — Medium
-- [ ] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) — Easy
+- [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) — Easy
 - [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) — Easy
 - [ ] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) — Medium
 - [ ] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) — Medium
