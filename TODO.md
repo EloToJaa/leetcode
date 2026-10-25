@@ -300,7 +300,7 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 - [ ] [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) — Hard
 - [ ] [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) — Easy
 - [ ] [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) — Medium
-- [ ] [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) — Medium
+- [x] [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) — Medium
 - [ ] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) — Medium
 - [ ] [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) — Medium
 - [x] [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) — Medium
