@@ -1,0 +1,68 @@
+# Category: algorithms
+# Level: Medium
+# Percent: 73.00936%
+
+
+
+# Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level).
+# 
+#  
+# Example 1:
+# 
+# Input: root = [3,9,20,null,null,15,7]
+# Output: [[3],[9,20],[15,7]]
+# 
+# 
+# Example 2:
+# 
+# Input: root = [1]
+# Output: [[1]]
+# 
+# 
+# Example 3:
+# 
+# Input: root = []
+# Output: []
+# 
+# 
+#  
+# Constraints:
+# 
+# 
+# 	The number of nodes in the tree is in the range [0, 2000].
+# 	-1000 <= Node.val <= 1000
+# 
+ 
+
+# Definition for a binary tree node.
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+from collections import deque
+
+
+class Solution:
+    def levelOrder(self, root: TreeNode | None) -> list[list[int]]:
+        if root == None:
+            return []
+
+        ans: list[list[int]] = []
+
+        queue: deque[tuple[TreeNode, int]] = deque()
+        queue.append((root, 0))
+
+        while queue:
+            node, depth = queue.popleft()
+
+            if depth >= len(ans):
+                ans.append([])
+            ans[depth].append(node.val)
+
+            if node.left != None:
+                queue.append((node.left, depth + 1))
+            if node.right != None:
+                queue.append((node.right, depth + 1))
+        return ans
