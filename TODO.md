@@ -286,13 +286,13 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 - [x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) — Medium
 - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) — Easy
 - [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) — Easy
-- [ ] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) — Medium
+- [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) — Medium
 - [ ] [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings) — Medium
 - [p] [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) — Medium
 
 ### Trees
 
-- [ ] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) — Easy
+- [x] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) — Easy
 - [ ] [100. Same Tree](https://leetcode.com/problems/same-tree) — Easy
 - [ ] [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) — Easy
 - [ ] [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) — Hard
