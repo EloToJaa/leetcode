@@ -304,7 +304,7 @@ The [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-To
 - [x] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) — Medium
 - [ ] [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) — Medium
 - [x] [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree) — Medium
-- [ ] [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) — Medium
+- [x] [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure) — Medium
 - [x] [212. Word Search II](https://leetcode.com/problems/word-search-ii) — Hard
 
 ### Heaps
