@@ -45,7 +45,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 
 ### Binary Search
 
-- [ ] [704. Binary Search](https://leetcode.com/problems/binary-search) — Easy
+- [x] [704. Binary Search](https://leetcode.com/problems/binary-search) — Easy
 - [x] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) — Medium
 - [x] [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) — Medium
 - [x] [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) — Medium
