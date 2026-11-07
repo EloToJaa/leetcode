@@ -40,7 +40,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) — Medium
 - [x] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) — Medium
 - [x] [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures) — Medium
-- [ ] [853. Car Fleet](https://leetcode.com/problems/car-fleet) — Medium
+- [x] [853. Car Fleet](https://leetcode.com/problems/car-fleet) — Medium
 - [x] [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram) — Hard
 
 ### Binary Search
