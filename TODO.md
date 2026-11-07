@@ -36,7 +36,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 ### Stack
 
 - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) — Easy
-- [ ] [155. Min Stack](https://leetcode.com/problems/min-stack) — Medium
+- [x] [155. Min Stack](https://leetcode.com/problems/min-stack) — Medium
 - [x] [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) — Medium
 - [x] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) — Medium
 - [ ] [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures) — Medium
