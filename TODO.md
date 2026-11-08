@@ -141,7 +141,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 ### 1-D Dynamic Programming
 
 - [x] [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs) — Easy
-- [ ] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) — Easy
+- [x] [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) — Easy
 - [x] [198. House Robber](https://leetcode.com/problems/house-robber) — Medium
 - [ ] [213. House Robber II](https://leetcode.com/problems/house-robber-ii) — Medium
 - [x] [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) — Medium
