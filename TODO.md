@@ -65,7 +65,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) — Medium
 - [x] [146. LRU Cache](https://leetcode.com/problems/lru-cache) — Medium
 - [x] [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) — Hard
-- [ ] [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) — Hard
+- [x] [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) — Hard
 
 ### Trees
 
