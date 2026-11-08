@@ -126,7 +126,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii) — Medium
 - [p] [261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) — Medium
 - [p] [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph) — Medium
-- [ ] [684. Redundant Connection](https://leetcode.com/problems/redundant-connection) — Medium
+- [x] [684. Redundant Connection](https://leetcode.com/problems/redundant-connection) — Medium
 - [x] [127. Word Ladder](https://leetcode.com/problems/word-ladder) — Hard
 
 ### Advanced Graphs
