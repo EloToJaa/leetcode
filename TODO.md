@@ -11,7 +11,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [1. Two Sum](https://leetcode.com/problems/two-sum) — Easy
 - [x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) — Medium
 - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) — Medium
-- [p] [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) — Medium
+- [x] [271. Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings) — Medium
 - [x] [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) — Medium
 - [x] [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku) — Medium
 - [x] [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) — Medium
