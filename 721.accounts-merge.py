@@ -63,15 +63,15 @@ class Solution:
             return True
 
         map = {}
-        for j in range(n):
-            account = accounts[j]
+        for i in range(n):
+            account = accounts[i]
             name = account[0]
-            for i in range(1, len(account)):
-                email = account[i]
+            for j in range(1, len(account)):
+                email = account[j]
                 if (name, email) in map:
-                    union(j, map[(name, email)][0])
+                    union(i, map[(name, email)])
                 else:
-                    map[(name, email)] = (j, i)
+                    map[(name, email)] = i
 
         res_map = {}
         for i in range(n):
