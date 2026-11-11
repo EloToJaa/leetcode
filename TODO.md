@@ -71,7 +71,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 
 - [x] [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree) — Easy
 - [x] [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) — Easy
-- [ ] [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) — Easy
+- [x] [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree) — Easy
 - [x] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) — Easy
 - [ ] [100. Same Tree](https://leetcode.com/problems/same-tree) — Easy
 - [ ] [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) — Easy
