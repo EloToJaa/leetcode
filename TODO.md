@@ -75,10 +75,10 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) — Easy
 - [x] [100. Same Tree](https://leetcode.com/problems/same-tree) — Easy
 - [x] [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) — Easy
-- [ ] [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) — Medium
+- [x] [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) — Medium
 - [x] [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) — Medium
 - [x] [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) — Medium
-- [ ] [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) — Medium
+- [x] [1448. Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree) — Medium
 - [x] [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) — Medium
 - [x] [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) — Medium
 - [ ] [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) — Medium
