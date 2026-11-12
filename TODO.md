@@ -206,4 +206,4 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) — Easy
 - [x] [268. Missing Number](https://leetcode.com/problems/missing-number) — Easy
 - [x] [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers) — Medium
-- [ ] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer) — Medium
+- [x] [7. Reverse Integer](https://leetcode.com/problems/reverse-integer) — Medium
