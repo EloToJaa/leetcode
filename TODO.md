@@ -200,7 +200,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 
 ### Bit Manipulation
 
-- [ ] [136. Single Number](https://leetcode.com/problems/single-number) — Easy
+- [x] [136. Single Number](https://leetcode.com/problems/single-number) — Easy
 - [x] [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) — Easy
 - [x] [338. Counting Bits](https://leetcode.com/problems/counting-bits) — Easy
 - [x] [190. Reverse Bits](https://leetcode.com/problems/reverse-bits) — Easy
