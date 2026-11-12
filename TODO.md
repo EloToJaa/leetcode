@@ -92,7 +92,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin) — Medium
 - [x] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) — Medium
 - [x] [621. Task Scheduler](https://leetcode.com/problems/task-scheduler) — Medium
-- [ ] [355. Design Twitter](https://leetcode.com/problems/design-twitter) — Medium
+- [x] [355. Design Twitter](https://leetcode.com/problems/design-twitter) — Medium
 - [x] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream) — Hard
 
 ### Backtracking
