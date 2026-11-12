@@ -195,7 +195,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [202. Happy Number](https://leetcode.com/problems/happy-number) — Easy
 - [x] [66. Plus One](https://leetcode.com/problems/plus-one) — Easy
 - [x] [50. Pow(x, n)](https://leetcode.com/problems/powx-n) — Medium
-- [ ] [43. Multiply Strings](https://leetcode.com/problems/multiply-strings) — Medium
+- [x] [43. Multiply Strings](https://leetcode.com/problems/multiply-strings) — Medium
 - [ ] [2013. Detect Squares](https://leetcode.com/problems/detect-squares) — Medium
 
 ### Bit Manipulation
