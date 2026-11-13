@@ -20,6 +20,8 @@
       {
         devShells.default = pkgs.mkShell {
           packages = with pkgs; [
+            leetcode-cli
+
             # Python
             python3
             pyright
