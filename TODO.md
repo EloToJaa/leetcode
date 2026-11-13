@@ -99,7 +99,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 
 - [x] [78. Subsets](https://leetcode.com/problems/subsets) — Medium
 - [x] [39. Combination Sum](https://leetcode.com/problems/combination-sum) — Medium
-- [ ] [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii) — Medium
+- [x] [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii) — Medium
 - [x] [46. Permutations](https://leetcode.com/problems/permutations) — Medium
 - [x] [90. Subsets II](https://leetcode.com/problems/subsets-ii) — Medium
 - [ ] [79. Word Search](https://leetcode.com/problems/word-search) — Medium
