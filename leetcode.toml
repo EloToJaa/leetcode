@@ -1,0 +1,26 @@
+# leetcode-cli config, installed to ~/.leetcode/leetcode.toml by the devshell.
+# @root@ is replaced with the repository root.
+
+[code]
+editor = "nvim"
+#lang = "cpp"
+lang = "python3"
+#comment_leading = "//"
+comment_leading = "#"
+comment_problem_desc = true
+test = true
+#inject_before = ["#include<bits/stdc++.h>\n", "using namespace std;\n"]
+#inject_after = [""]
+
+# Required by leetcode-cli; left empty so no cookies are stored.
+# Cookies are read from Chrome, or from LEETCODE_CSRF / LEETCODE_SESSION.
+[cookies]
+csrf = ""
+session = ""
+site = "leetcode.com"
+
+[storage]
+cache = "problems.db"
+code = "@root@"
+root = "~/.leetcode"
+scripts = "@root@/scripts"

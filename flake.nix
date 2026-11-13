@@ -20,37 +20,20 @@
       in
       {
         devShells.default = pkgs.mkShell {
-          # leetcode-cli only reads ~/.leetcode/leetcode.toml, so write it on shell entry.
-          # Cookies are not stored here: leetcode-cli reads them from the browser,
-          # or from LEETCODE_CSRF / LEETCODE_SESSION env vars.
+          # leetcode-cli only reads ~/.leetcode/leetcode.toml, so install ./leetcode.toml
+          # there on shell entry. It is copied, not symlinked, because `leetcode edit -l`
+          # writes the config back. Cookies are read from Chrome (see ./leetcode.toml).
           shellHook = ''
             root="$(git rev-parse --show-toplevel 2>/dev/null || pwd)"
             mkdir -p "$HOME/.leetcode"
             rm -f "$HOME/.leetcode/leetcode.toml"
-            cat > "$HOME/.leetcode/leetcode.toml" <<EOF
-            [code]
-            editor = "nvim"
-            lang = "python3"
-            comment_leading = "#"
-            comment_problem_desc = true
-            test = true
-
-            [cookies]
-            csrf = ""
-            session = ""
-            site = "leetcode.com"
-
-            [storage]
-            cache = "problems.db"
-            code = "$root"
-            root = "~/.leetcode"
-            scripts = "$root/scripts"
-            EOF
+            sed "s|@root@|$root|g" "$root/leetcode.toml" > "$HOME/.leetcode/leetcode.toml"
           '';
 
           packages = with pkgs; [
             leetcode-cli
             lc
+            libsecret # secret-tool: decrypts Chrome cookies via the keyring
 
             # Python
             python3
