@@ -103,7 +103,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [46. Permutations](https://leetcode.com/problems/permutations) — Medium
 - [x] [90. Subsets II](https://leetcode.com/problems/subsets-ii) — Medium
 - [x] [79. Word Search](https://leetcode.com/problems/word-search) — Medium
-- [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) — Medium
+- [x] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) — Medium
 - [x] [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) — Medium
 - [x] [51. N-Queens](https://leetcode.com/problems/n-queens) — Hard
 
