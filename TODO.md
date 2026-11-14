@@ -185,7 +185,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [435. Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals) — Medium
 - [x] [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms) — Easy
 - [x] [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii) — Medium
-- [ ] [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query) — Hard
+- [x] [1851. Minimum Interval to Include Each Query](https://leetcode.com/problems/minimum-interval-to-include-each-query) — Hard
 
 ### Math & Geometry
 
