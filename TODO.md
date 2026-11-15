@@ -176,7 +176,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights) — Medium
 - [x] [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet) — Medium
 - [x] [763. Partition Labels](https://leetcode.com/problems/partition-labels) — Medium
-- [ ] [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) — Medium
+- [x] [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) — Medium
 
 ### Intervals
 
