@@ -173,7 +173,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [55. Jump Game](https://leetcode.com/problems/jump-game) — Medium
 - [x] [45. Jump Game II](https://leetcode.com/problems/jump-game-ii) — Medium
 - [x] [134. Gas Station](https://leetcode.com/problems/gas-station) — Medium
-- [ ] [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights) — Medium
+- [x] [846. Hand of Straights](https://leetcode.com/problems/hand-of-straights) — Medium
 - [ ] [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet) — Medium
 - [ ] [763. Partition Labels](https://leetcode.com/problems/partition-labels) — Medium
 - [ ] [678. Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) — Medium
