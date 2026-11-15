@@ -135,7 +135,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [ ] [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points) — Medium
 - [x] [743. Network Delay Time](https://leetcode.com/problems/network-delay-time) — Medium
 - [ ] [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water) — Hard
-- [p] [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary) — Hard
+- [x] [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary) — Hard
 - [ ] [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops) — Medium
 
 ### 1-D Dynamic Programming
