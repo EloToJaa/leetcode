@@ -157,7 +157,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 
 - [x] [62. Unique Paths](https://leetcode.com/problems/unique-paths) — Medium
 - [x] [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) — Medium
-- [ ] [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) — Medium
+- [x] [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) — Medium
 - [ ] [518. Coin Change II](https://leetcode.com/problems/coin-change-ii) — Medium
 - [ ] [494. Target Sum](https://leetcode.com/problems/target-sum) — Medium
 - [x] [97. Interleaving String](https://leetcode.com/problems/interleaving-string) — Medium
