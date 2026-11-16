@@ -164,7 +164,7 @@ The [NeetCode 150](https://neetcode.io/practice?tab=neetcode150) list, grouped b
 - [x] [329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix) — Hard
 - [x] [115. Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences) — Hard
 - [x] [72. Edit Distance](https://leetcode.com/problems/edit-distance) — Medium
-- [ ] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons) — Hard
+- [x] [312. Burst Balloons](https://leetcode.com/problems/burst-balloons) — Hard
 - [x] [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) — Hard
 
 ### Greedy
