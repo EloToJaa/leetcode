@@ -218,7 +218,7 @@ The [NeetCode 250](https://neetcode.io/practice?tab=neetcode250) list, grouped b
 - [x] [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate) — Easy
 - [x] [242. Valid Anagram](https://leetcode.com/problems/valid-anagram) — Easy
 - [x] [1. Two Sum](https://leetcode.com/problems/two-sum) — Easy
-- [ ] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) — Easy
+- [x] [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) — Easy
 - [x] [49. Group Anagrams](https://leetcode.com/problems/group-anagrams) — Medium
 - [x] [27. Remove Element](https://leetcode.com/problems/remove-element) — Easy
 - [x] [169. Majority Element](https://leetcode.com/problems/majority-element) — Easy
@@ -285,7 +285,7 @@ The [NeetCode 250](https://neetcode.io/practice?tab=neetcode250) list, grouped b
 ### Binary Search
 
 - [x] [704. Binary Search](https://leetcode.com/problems/binary-search) — Easy
-- [ ] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) — Easy
+- [x] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position) — Easy
 - [ ] [374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) — Easy
 - [x] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx) — Easy
 - [x] [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) — Medium
@@ -498,7 +498,7 @@ The [NeetCode 250](https://neetcode.io/practice?tab=neetcode250) list, grouped b
 - [x] [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) — Medium
 - [x] [202. Happy Number](https://leetcode.com/problems/happy-number) — Easy
 - [x] [66. Plus One](https://leetcode.com/problems/plus-one) — Easy
-- [ ] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) — Easy
+- [x] [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer) — Easy
 - [x] [50. Pow(x, n)](https://leetcode.com/problems/powx-n) — Medium
 - [x] [43. Multiply Strings](https://leetcode.com/problems/multiply-strings) — Medium
 - [x] [2013. Detect Squares](https://leetcode.com/problems/detect-squares) — Medium
